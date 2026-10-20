@@ -1,0 +1,36 @@
+{
+  "sponsors": [
+    {
+      "id": "example-language-school",
+      "name": "Example Language School",
+      "line": "Spoken Telugu and Hindi classes, online, evenings",
+      "url": "https://example.com/classes",
+      "icon": "school-outline",
+      "image": "images/example-language-school.png",
+      "imageSha256": "b86396ae0f806e2941192529b33ffe9dd9183253eaafa2c3b471734460075a32",
+      "slots": ["translate", "flashcards"],
+      "from": "2026-11-01",
+      "until": "2026-11-30",
+      "countries": ["IN"],
+      "minVersion": "1.0.0"
+    },
+    {
+      "id": "example-travel",
+      "name": "Example Travel",
+      "line": "Bus and train tickets without the queue",
+      "url": "https://example.com/travel?src=partners",
+      "icon": "airplane-outline",
+      "image": "images/example-travel.png",
+      "imageSha256": "9f330ce3b00e666c5e95c1671bdb030c127ae4414900efc289473c88c065f826",
+      "slots": ["trips", "tools"],
+      "countries": ["IN"]
+    },
+    {
+      "id": "example-everywhere",
+      "name": "Example Notebooks",
+      "line": "Paper notebooks for people who still write",
+      "url": "https://example.com/notebooks",
+      "slots": ["tools", "chat", "meeting", "workflows", "integrations", "health"]
+    }
+  ]
+}
